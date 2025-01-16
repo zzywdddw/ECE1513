@@ -15,7 +15,12 @@ Example: playing games, control robots
 ![image](https://github.com/user-attachments/assets/dc5a98ec-6548-4065-89c5-e5ee5e0e17c1)  
 <strong>Soft K mean</strong>  
 Soft K -means clustering treats the cluster assignments as probability distributions over the clusters.  
-![image](https://github.com/user-attachments/assets/15b245a4-21ab-4754-a638-fc48bad10fb5)
+![image](https://github.com/user-attachments/assets/15b245a4-21ab-4754-a638-fc48bad10fb5)  
+<br>  
+<br>  
+<br>  
+# Lecture 2  
+
 
 
 
