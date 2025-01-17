@@ -29,7 +29,37 @@ Random variables x and y are independent if P(x,y) = P(x)P(y)
 i.i.d. sequence: X1,...,Xn are independent and identically distributed if they are independent and have the same distribution (same mean and standard deviation)  
 ![image](https://github.com/user-attachments/assets/2517f346-60fb-4ff7-bee0-777420fcc845)  
 ![image](https://github.com/user-attachments/assets/f566227d-8c39-4e09-97b2-eb8ce80c2a57)  
-![image](https://github.com/user-attachments/assets/aef2faf1-5f37-4ef9-829d-0da3de9a83ae)
+![image](https://github.com/user-attachments/assets/aef2faf1-5f37-4ef9-829d-0da3de9a83ae)  
+<br>  
+<strong>Probability Mass Function</strong>  
+PMF describes the probability of each specific outcome of a discrete random variable.  
+![image](https://github.com/user-attachments/assets/8ee93400-75dc-46cf-9fe5-1fb81f7914c2)  
+Examples:  If x is the result of rolling a fair 5-sided die:  
+P(X=x) = 1/6, x = 1,2,3,4,5,6 or = 0 otherwise  
+<br>  
+<strong>Probability Density Function</strong>  
+PDF describes the likelihood if a continuous random variable taking on a value within an interval. Unlike PMF, it does not give direct probabilities but rather a density  
+![image](https://github.com/user-attachments/assets/ae22fa7b-5bc1-43bd-81e6-549bee8e86a6)  
+![image](https://github.com/user-attachments/assets/0b94a026-db7c-4af6-81a3-b22bd88137e9)  
+<br>  
+<strong>Gaussian Distribution</strong>  
+![image](https://github.com/user-attachments/assets/73585695-713b-4fa8-8604-68ca6308fb0e)  
+Why Gaussian?  
+1. Many processes in nature are approximately Gaussian
+2. Sum of large enough independent random objects tends to a Gaussian object
+3. Superposition of Gaussians can describe a large class of distributions
+<br>
+<strong>Maximum Likelihood Estimation (MLE)</strong>
+S(μ,Σ) is the log of the likelihood function normalized by the number of samples 𝑁. Taking the log of the likelihood simplifies calculations, especially for large datasets, and normalization makes it more manageable to interpret
+![image](https://github.com/user-attachments/assets/48ca2ef9-d103-4092-bec3-1814a3e77bd9)
+
+
+
+
+
+
+
+
 
 
 
