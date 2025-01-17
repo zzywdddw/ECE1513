@@ -49,6 +49,7 @@ Why Gaussian?
 2. Sum of large enough independent random objects tends to a Gaussian object
 3. Superposition of Gaussians can describe a large class of distributions
 <br>
+
 <strong>Maximum Likelihood Estimation (MLE)</strong>
 S(μ,Σ) is the log of the likelihood function normalized by the number of samples 𝑁. Taking the log of the likelihood simplifies calculations, especially for large datasets, and normalization makes it more manageable to interpret
 ![image](https://github.com/user-attachments/assets/48ca2ef9-d103-4092-bec3-1814a3e77bd9)
