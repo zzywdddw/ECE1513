@@ -57,6 +57,21 @@ S(μ,Σ) is the log of the likelihood function normalized by the number of sampl
 <br>  
 <br>  
 # Lecture 3  
+![image](https://github.com/user-attachments/assets/12f2d2f3-21b2-4bda-b228-cecce9196f4a)  
+![image](https://github.com/user-attachments/assets/ab1fbad7-f270-4648-ab0f-909ae1fe2814)  
+![image](https://github.com/user-attachments/assets/f8ca95da-7006-4898-858a-97f829252c74)  
+![image](https://github.com/user-attachments/assets/3bb19761-932e-40a2-beb6-86d573d0d0f0)  
+![image](https://github.com/user-attachments/assets/79f2dc17-95da-4607-9550-145fc3329433)  
+![image](https://github.com/user-attachments/assets/ffc19897-effc-4231-9bf5-320e84310663)  
+![image](https://github.com/user-attachments/assets/948b1fb4-523d-47d1-acaa-937e32f637ac)
+
+
+
+
+
+
+
+
 
 
 
