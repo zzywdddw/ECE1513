@@ -59,13 +59,35 @@ S(μ,Σ) is the log of the likelihood function normalized by the number of sampl
 # Lecture 3  
 ![image](https://github.com/user-attachments/assets/12f2d2f3-21b2-4bda-b228-cecce9196f4a)  
 ![image](https://github.com/user-attachments/assets/ab1fbad7-f270-4648-ab0f-909ae1fe2814)  
+<br>  
+<br>  
+Dimensionality Reduction  
 ![image](https://github.com/user-attachments/assets/f8ca95da-7006-4898-858a-97f829252c74)  
 ![image](https://github.com/user-attachments/assets/3bb19761-932e-40a2-beb6-86d573d0d0f0)  
 ![image](https://github.com/user-attachments/assets/79f2dc17-95da-4607-9550-145fc3329433)  
 ![image](https://github.com/user-attachments/assets/ffc19897-effc-4231-9bf5-320e84310663)  
 <br>  
 <strong>Minimum Representation Error</strong>  
-![image](https://github.com/user-attachments/assets/948b1fb4-523d-47d1-acaa-937e32f637ac)
+![image](https://github.com/user-attachments/assets/948b1fb4-523d-47d1-acaa-937e32f637ac)  
+<br>  
+<strong>Maximal Representation Variance</strong>  
+![image](https://github.com/user-attachments/assets/b28f5cc4-ac4e-4dce-914a-3d4c24cdc380)  
+![image](https://github.com/user-attachments/assets/114d18cb-1a5c-4879-bdd5-9f07e631f549)  
+
+<br>  
+<strong>Sample Covariance</strong>  
+![image](https://github.com/user-attachments/assets/96b6fd78-7dde-4b5f-b80b-3b7909803cc7)  
+![image](https://github.com/user-attachments/assets/2051b145-fd95-43d5-aadc-c5748a1e36c1)  
+<br>  
+<strong>PCA</strong>  
+![image](https://github.com/user-attachments/assets/1ac37817-6336-4abe-af79-9d5928a05d76)
+
+
+
+
+
+
+
 
 
 
