@@ -76,6 +76,7 @@ Dimensionality Reduction
 
 <br>  
 <strong>Sample Covariance</strong>  
+
 ![image](https://github.com/user-attachments/assets/96b6fd78-7dde-4b5f-b80b-3b7909803cc7)  
 ![image](https://github.com/user-attachments/assets/2051b145-fd95-43d5-aadc-c5748a1e36c1)  
 <br>  
