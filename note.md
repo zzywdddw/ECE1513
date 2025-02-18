@@ -81,7 +81,11 @@ Dimensionality Reduction
 ![image](https://github.com/user-attachments/assets/2051b145-fd95-43d5-aadc-c5748a1e36c1)  
 <br>  
 <strong>PCA</strong>  
-![image](https://github.com/user-attachments/assets/1ac37817-6336-4abe-af79-9d5928a05d76)
+![image](https://github.com/user-attachments/assets/1ac37817-6336-4abe-af79-9d5928a05d76)  
+<br>  
+<br>  
+<br>  
+# Lecture 4  
 
 
 
