@@ -99,7 +99,12 @@ Dimensionality Reduction
 ![image](https://github.com/user-attachments/assets/c1b17d9d-ad6e-4115-abd7-1757758d8d27)  
 ![image](https://github.com/user-attachments/assets/fe071e9f-3487-4ba5-a8a4-dec68f0956b7)  
 ![image](https://github.com/user-attachments/assets/0a1086c2-43a4-43b0-acf8-10ce590a0cbb)  
-![image](https://github.com/user-attachments/assets/b7f2d9e7-9770-4ac3-aa57-66da77595fe9)
+![image](https://github.com/user-attachments/assets/b7f2d9e7-9770-4ac3-aa57-66da77595fe9)  
+<br>  
+<br>  
+<br>  
+# Lecture 6  
+
 
 
 
