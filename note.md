@@ -86,6 +86,21 @@ Dimensionality Reduction
 <br>  
 <br>  
 # Lecture 4  
+![image](https://github.com/user-attachments/assets/677a6c57-81ee-40bc-ab7e-20c2d0abc7a0)  
+![image](https://github.com/user-attachments/assets/ec905ec8-f2fb-4716-ab76-875bd13ee22a)  
+![image](https://github.com/user-attachments/assets/e5c4032a-33a1-465c-932a-6a98eef52d8a)  
+![image](https://github.com/user-attachments/assets/9935acd0-30be-4e6c-a776-bd8bada1e8a9)  
+![image](https://github.com/user-attachments/assets/a954f69d-c865-47fd-bd0e-e013b2b7863c)  
+<br>  
+<br>  
+<br>  
+# Lecture 5  
+
+
+
+
+
+
 
 
 
