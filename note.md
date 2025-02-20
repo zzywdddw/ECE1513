@@ -104,6 +104,28 @@ Dimensionality Reduction
 <br>  
 <br>  
 # Lecture 6  
+The goal of SVC is to maximize this margin while correctly classifying the data.  
+![image](https://github.com/user-attachments/assets/a3ddfae2-db57-41e4-9f54-05ca007bed36)  
+![image](https://github.com/user-attachments/assets/3dcd09c3-5979-4c08-80f3-c6edffc6329a)  
+![image](https://github.com/user-attachments/assets/8c9b303c-ca5f-4a53-8074-18ce1dc70a41)  
+![image](https://github.com/user-attachments/assets/883efdf7-7d04-4f25-8a4d-43d31cff3c69)  
+![image](https://github.com/user-attachments/assets/c7d6e7a9-bd0b-4f42-9e6b-9288f8da9854)  
+![image](https://github.com/user-attachments/assets/79a28af7-2476-4145-979f-59e61c30ed03)  
+<br>  
+Kernel  
+![image](https://github.com/user-attachments/assets/bd0eaa5a-8c3e-4ccf-83d9-7466b7686bdf)  
+![image](https://github.com/user-attachments/assets/b49c54d6-871a-4774-be1e-5bbfab8ee9d5)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
